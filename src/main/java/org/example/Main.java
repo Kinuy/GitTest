@@ -33,6 +33,9 @@ public class Main {
 
         * */
 
+        String name;
+        name = "Hallo";
+
         List<String> list = new ArrayList<>();
         list.add("Hello");
     }
